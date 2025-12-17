@@ -69,7 +69,7 @@ An unauthenticated attacker can access and steal sensitive internal data.
 - **Information Leakage:** The attacker retrieved the "flag" proof.
 - **System Enumeration:** Revealing the full system path (`/home/sambauser`) and configuration files helps the attacker understand the internal file structure and potentially find hardcoded credentials or aliases in `.bashrc`, which facilitates further privilege escalation attacks.
 
-### **Recommendation / التوصية**
+### **Recommendation**
 
 **Short fix:**
 Disable anonymous/guest access to the `sambashare` directory and ensure proper permission bits are set.
