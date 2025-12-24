@@ -31,7 +31,7 @@ Navigate through the directories, list hidden files to identify the system path,
 
 - **Screenshot 1:** Nmap scan results showing ports 445,139 are open.
 
-![image.png](../image/image.png)
+![image.png](../images/image.png)
 
 - **Screenshot 2:** Listing shares using `smbclient` showing `sambashare` and the comment "InFreight SMB v3.1".
     
