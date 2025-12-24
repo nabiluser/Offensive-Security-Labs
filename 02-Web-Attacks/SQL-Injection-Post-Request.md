@@ -24,19 +24,19 @@ proof of concept
 
 when i use arjun
 
-![image.png](..images/image6.png)
+![image.png](../images/image6.png)
 
 then i use sqlmap 
 
-![image.png](..images/image7.png)
+![image.png](../images/image7.png)
 
-![image.png](..images/image8.png)
+![image.png](../images/image8.png)
 
 after that i do
 
-![image.png](..images/image9.png)
+![image.png](../images/image9.png)
 
-![image.png](..images/image610.png)
+![image.png](../images/image10.png)
 
 impact 
 
