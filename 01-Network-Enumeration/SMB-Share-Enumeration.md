@@ -35,17 +35,17 @@ Navigate through the directories, list hidden files to identify the system path,
 
 - **Screenshot 2:** Listing shares using `smbclient` showing `sambashare` and the comment "InFreight SMB v3.1".
     
-    ![image.png](../images/image 1.png)
+    ![image.png](../images/image1.png)
     
 - **Screenshot 3:** Successful login to `sambashare` and listing files including `.profile` and `.bashrc`.
 
-![image.png](../images/image 2.png)
+![image.png](../images/image2.png)
 
 - **c< 4:** Downloading and reading the `flag.txt`
 
-![image.png](../images/image 3.png)
+![image.png](../images/image3.png)
 
-![image.png](../images/image 4.png)
+![image.png](../images/image4.png)
 
 **Technical Analysis (Path Discovery):**
 Upon accessing the share, standard Linux user configuration files were found:
