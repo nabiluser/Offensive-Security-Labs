@@ -32,15 +32,15 @@ Analyze the output to locate sensitive strings such as the administrator's email
 
 **Screenshot 1:** *Shows the command execution and the retrieval of the Administrator's Email.*
 
-![image.png](image.png)
+![image.png](../images/image10.png)
 
 **Screenshot 2:** *Shows the software name and version.*
 
-![image.png](image%201.png)
+![image.png](../images/image11.png)
 
 **Screenshot 3:** *Shows the custom script output revealing the flag.*
 
-![image.png](image%202.png)
+![image.png](../images/image12.png)
 
 **Key Findings (Data Samples):**
 
