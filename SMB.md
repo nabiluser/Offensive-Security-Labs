@@ -41,9 +41,7 @@ Navigate through the directories, list hidden files to identify the system path,
 
 ![image.png](image%202.png)
 
-- **c< 4:** Downloading and reading the `flag.txt`
-
-![image.png](image%203.png)
+- **c 4:** Downloading and reading the `flag.txt`
 
 ![image.png](image%204.png)
 
